@@ -1,0 +1,5 @@
+# 원본 교통량 데이터
+/data/*.xlsx
+
+# Jupyter 임시 파일
+.ipynb_checkpoints/
